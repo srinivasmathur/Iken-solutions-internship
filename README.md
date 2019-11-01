@@ -23,5 +23,7 @@ Recommender systems or Recommendation engines are algorithms which provide most 
 	b.) Stacked Auto Encoders
 
 4) Analysis of user-movie data
+
 5)Implementation of Models: Parameters and Results
+
 6) Conclusion
