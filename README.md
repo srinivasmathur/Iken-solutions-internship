@@ -24,6 +24,6 @@ Recommender systems or Recommendation engines are algorithms which provide most 
 
 4) Analysis of user-movie data
 
-5)Implementation of Models: Parameters and Results
+5) Implementation of Models: Parameters and Results
 
 6) Conclusion
