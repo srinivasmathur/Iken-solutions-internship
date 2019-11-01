@@ -1,2 +1,2 @@
-# Iken-solutions-internship
+# Iken solutions-Internship Project
 Recommender System
