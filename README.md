@@ -2,7 +2,7 @@
 ## Recommender System
 
 
-### Introduction- 
+### Introduction - 
 
 Recommender systems are one of the most successful and widespread application of machine learning technologies in business. From E-commerce to online advertisement, all such companies leverage recommender systems to suggest items to the users according to their taste and preference to improve user experience. For example, Companies like Amazon, Netflix, Spotify have built smart and intelligent recommender systems to recommend products and items to the users which he/she is most likely to buy or use. So, knowing in advance the items which a user is likely to buy can generate huge amount of income.
 
