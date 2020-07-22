@@ -10,7 +10,7 @@ Recommender systems are one of the most successful and widespread application of
 
 Recommender systems or Recommendation engines are algorithms which provide most relevant and accurate items to the user by filtering out items from a huge pool of information base. It learns from the data of user behavior towards products and produces outcomes that relates best to his/her past interests. 
 
-## The attached report contains following topics:
+## The report contains following topics:
 
 1) Introduction
 
